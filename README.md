@@ -7,19 +7,19 @@
 </a>
 
 <br>
-<a href="https://www.linkedin.com/in/prajolshresthaa/">
+<a href="https://www.linkedin.com/in/niteshshah09/">
     <img src="https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=linkedin">
 </a>
-<a href="mailto:prajolstha9@gmail.com">
+<a href="mailto:kshahnitesh@gmail.com">
     <img src="https://img.shields.io/badge/-Email-red?style=flat-square&logo=gmail&logoColor=white">
 </a>
-<a href="https://pypi.org/user/prajolshrestha/">
+<!-- <a href="https://pypi.org/user/prajolshrestha/">
     <img src="https://img.shields.io/badge/PyPi-prajolshrestha-blue?style=flat-square&logo=pypi&logoColor=white">
-</a>    
+</a>     -->
 </br>
 </p>
 
-* 📖 Pursuing Master's in Information and Communication Technology @ [Friedrich-Alexander-Universität Erlangen-Nürnberg](https://www.iuk.studium.fau.eu/). 
+* 📖 Pursuing Master's in Artificial Intelligence @ [Friedrich-Alexander-Universität Erlangen-Nürnberg](https://www.ai.study.fau.eu/prospective-students/master-ai/master-programme-ai/). 
 
 * 💡 Open to collaborating on projects and innovative ideas with tech enthusiasts. 
 
@@ -32,10 +32,10 @@
 <br>
 My Github Stats
 
-![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=prajolshrestha&theme=dracula) 
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=niteshshah53&theme=dracula) 
 
-![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=prajolshrestha&theme=dracula) 
-![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=prajolshrestha&theme=dracula)
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=niteshshah53&theme=dracula) 
+![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=niteshshah53&theme=dracula)
 
 
 <br>
