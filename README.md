@@ -8,12 +8,11 @@
 
 - 🔭 I'm currently working on **Master's Thesis: Benchmarking State-of-the-Art Transformers for Handwritten Document Layout Analysis**
 - 👯 I'm looking to collaborate on **projects based on Generative AI, Computer Vision, and Deep Learning**
-- 🤝 I'm looking for help with **Langchain and LlamaIndex**
 - 🌱 I'm currently learning **Generative AI, Attention Mechanisms, and Advanced Transformer Architectures**
 - 💬 Ask me about **Deep Learning, Computer Vision, Artificial Intelligence, Machine Learning, Image Segmentation**
 - 📫 How to reach me **kshahnitesh@gmail.com**
 - 📍 Location: **Erlangen, Germany**
-- 👨‍💻 All of my projects are available at **https://github.com/niteshshah53**
+
 - 📄 My CV is available at **https://drive.google.com/file/d/1lEaGgHsy4IB9F_xHuZcAdpAiPBVRdEL5/view?usp=drive_link**
 
 <div> 
