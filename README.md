@@ -124,9 +124,10 @@ Visvesvaraya Technological University, India · August 2016 – August 2020
 ### Graduate ML Researcher (Master’s Thesis) — Friedrich-Alexander-Universität Erlangen-Nürnberg
 **Deep Learning & Computer Vision focus** | **August 2025 – March 2026**
 
-- Architected hybrid segmentation pipelines in PyTorch and containerized training environments with Docker for execution on an NVIDIA A100 HPC cluster.
-- Engineered custom data-loading and class-imbalance handling components, and implemented Fourier Feature Fusion and deep supervision.
-- Executed SimMIM self-supervised pretraining with TensorBoard experiment tracking, achieving **0.8172 mIoU** on U-DIADS-Bib, a **3.82% relative improvement** over the 0.7871 baseline.
+- **Architected two novel hybrid pipelines** modifying vision transformer models (**Swin-UNet, MISSFormer, SSTrans-Net**) in **PyTorch**, containerizing the environments via **Docker** to scale training across an **NVIDIA A100 HPC cluster**.
+- **Engineered custom Dataset and DataLoader scripts** featuring complex bitwise multi-class parsing logic, class-aware data augmentations, and a hybrid Weighted Cross-Entropy/Dice loss function to mitigate severe dataset class imbalances.
+- **Implemented advanced custom layers** (Fourier Feature Fusion, deep supervision) while optimizing GPU memory utilization using **Automatic Mixed Precision (AMP)** and gradient accumulation.
+- **Executed self-supervised SimMIM pretraining** using **TensorBoard** for rigorous experiment tracking, achieving a peak metric of **0.8172 mIoU** (a **3.82% relative improvement** over the 0.7871 baseline).
 
 ### Web Developer Intern — INFIDATA Technologies, Bangalore, India
 **July 2019 – September 2019**
