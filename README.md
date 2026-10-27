@@ -109,7 +109,7 @@ Compared transformer and CNN–Transformer approaches for segmenting handwritten
 - Benchmarked multiple segmentation architectures for handwritten document-layout analysis.
 - Investigated model behavior through comparative experiments and ablation studies.
 - Evaluated segmentation using metrics including mean Intersection over Union (mIoU), F1-score, precision, and recall.
-- Reported a best mIoU of approximately **0.8172** on the U-DIADS-Bib dataset in the thesis experiments.
+- Achieved a best mIoU of approximately **0.81** in the thesis experiments.
 
 🔗 [Repository: Transformer_Models](https://github.com/niteshshah53/Transformer_Models)
 
