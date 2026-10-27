@@ -25,7 +25,7 @@ I build and evaluate practical AI applications, from document-layout computer vi
 ## 👋 About Me
 
 - 🎓 **M.Sc. Artificial Intelligence**, FAU Erlangen-Nürnberg, Germany
-- 🔬 **Master's thesis (August 2025 – March 2026):** transformer and CNN–Transformer approaches for handwritten document-layout segmentation
+- 🔬 **Master's thesis (August 2025 – March 2026):** benchmarked transformer and CNN–Transformer segmentation models; studied SimMIM pretraining and reported a 3.82% relative mIoU improvement for Swin-UNet on U-DIADS-Bib
 - 👁️ Interested in computer vision, applied machine learning, AI engineering, and ML systems
 - 🧩 Built a full-stack document-layout application integrating a pretrained Docling Heron RT-DETR v2 model with FastAPI and React/TypeScript
 - 🛠️ Practical experience with Python, PyTorch, FastAPI, Docker, automated testing, and reproducible ML workflows
@@ -33,40 +33,55 @@ I build and evaluate practical AI applications, from document-layout computer vi
 
 ---
 
-## 🛠️ Tech Stack
+## 🛠️ Technical Skills
 
-### Languages
+### Programming Languages & Data
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-orange?style=flat&logo=openjdk)
 ![C](https://img.shields.io/badge/C-blue?style=flat)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white)
 
-### Machine Learning & Computer Vision
+### Deep Learning, Computer Vision & Document Analysis
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow)
-![Hugging Face Transformers](https://img.shields.io/badge/Transformers-yellow?style=flat)
-![Computer Vision](https://img.shields.io/badge/Computer%20Vision-green?style=flat)
+![TensorFlow/Keras](https://img.shields.io/badge/TensorFlow%2FKeras-FF6F00?style=flat&logo=tensorflow)
+![Hugging Face Transformers](https://img.shields.io/badge/Hugging%20Face-Transformers-yellow?style=flat)
+![Semantic Segmentation](https://img.shields.io/badge/Semantic-Segmentation-green?style=flat)
+![Swin-UNet](https://img.shields.io/badge/Swin--UNet-blue?style=flat)
+![MISSFormer](https://img.shields.io/badge/MISSFormer-blue?style=flat)
+![SSTrans-Net](https://img.shields.io/badge/SSTrans--Net-blue?style=flat)
+![SimMIM](https://img.shields.io/badge/SimMIM-Self--Supervised%20Pretraining-purple?style=flat)
 ![RT-DETR](https://img.shields.io/badge/RT--DETR-v2-blue?style=flat)
+![Anomalib](https://img.shields.io/badge/Anomalib-Anomaly%20Detection-purple?style=flat)
 
-### LLM & Retrieval
+### LLM Applications & Retrieval-Augmented Generation
+![RAG](https://img.shields.io/badge/RAG-Retrieval--Augmented%20Generation-purple?style=flat)
 ![LangGraph](https://img.shields.io/badge/LangGraph-1C3C3C?style=flat)
 ![Qdrant](https://img.shields.io/badge/Qdrant-DC244C?style=flat)
-![RAG](https://img.shields.io/badge/RAG-purple?style=flat)
 ![Ollama](https://img.shields.io/badge/Ollama-black?style=flat)
+![RAGAS](https://img.shields.io/badge/RAGAS-Evaluation-blue?style=flat)
 
-### APIs, Testing & MLOps
+### APIs, Web Development & Testing
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi)
 ![Pydantic](https://img.shields.io/badge/Pydantic-E92063?style=flat)
+![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)
+![Vitest](https://img.shields.io/badge/Vitest-6E9F18?style=flat)
+![Pytest](https://img.shields.io/badge/Pytest-0A9EDC?style=flat)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white)
+
+### MLOps, Deployment & Experiment Tracking
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker)
+![Docker Compose](https://img.shields.io/badge/Docker%20Compose-2496ED?style=flat&logo=docker)
 ![DVC](https://img.shields.io/badge/DVC-13ADC7?style=flat)
 ![MLflow](https://img.shields.io/badge/MLflow-0194E2?style=flat)
-![Pytest](https://img.shields.io/badge/Pytest-0A9EDC?style=flat)
-![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=flat&logo=githubactions&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git)
+![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=flat&logo=githubactions&logoColor=white)
+![Azure](https://img.shields.io/badge/Azure-0078D4?style=flat&logo=microsoftazure&logoColor=white)
 
-### Data & Semantic Web
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql)
+### Semantic Web
 ![RDF](https://img.shields.io/badge/RDF-blue?style=flat)
 ![SPARQL](https://img.shields.io/badge/SPARQL-green?style=flat)
 
@@ -102,14 +117,14 @@ A retrieval-augmented generation application for document question-answering wit
 **Research period: August 2025 – March 2026**  
 Research conducted with the Pattern Recognition Lab, FAU Erlangen-Nürnberg.
 
-Compared transformer and CNN–Transformer approaches for segmenting handwritten document layouts.
+Compared transformer and CNN–Transformer approaches for segmenting handwritten document layouts across the U-DIADS-Bib and DIVA-HisDB historical manuscript datasets.
 
-**Tech:** Swin-UNet, MISSFormer, SSTrans-Net, CNN–Transformer architectures, PyTorch
+**Tech:** Python, PyTorch, Swin-UNet, MISSFormer, SSTrans-Net, CNN–Transformer hybrid architectures, SimMIM self-supervised pretraining, semantic segmentation, image preprocessing and augmentation, ablation studies, mIoU, F1-score, precision, recall
 
-- Benchmarked multiple segmentation architectures for handwritten document-layout analysis.
-- Investigated model behavior through comparative experiments and ablation studies.
-- Evaluated segmentation using metrics including mean Intersection over Union (mIoU), F1-score, precision, and recall.
-- Achieved a best mIoU of approximately **0.81** in the thesis experiments.
+- Benchmarked three transformer segmentation models and two proposed CNN–Transformer hybrid architectures across full-data and few-shot settings.
+- Investigated model behavior through comparative experiments and ablation studies, including self-supervised SimMIM pretraining and cross-dataset transfer.
+- Evaluated segmentation with mean Intersection over Union (mIoU), F1-score, precision, and recall.
+- Improved Swin-UNet mIoU on U-DIADS-Bib from **0.7871** (trained from scratch) to **0.8172** with SimMIM-pretrained encoder weights — an absolute gain of **0.0301 mIoU** and a **3.82% relative improvement**.
 
 🔗 [Repository: Transformer_Models](https://github.com/niteshshah53/Transformer_Models)
 
@@ -151,9 +166,9 @@ Visvesvaraya Technological University, India · August 2016 – August 2020
 ### Master's Thesis Research — Pattern Recognition Lab, FAU Erlangen-Nürnberg
 **August 2025 – March 2026**
 
-- Compared transformer and CNN–Transformer architectures for handwritten document-layout segmentation.
-- Conducted segmentation experiments and analyzed model performance using standard region-overlap and classification metrics.
-- Investigated model behavior through comparative and ablation experiments.
+- Benchmarked Swin-UNet, MISSFormer, SSTrans-Net, and two CNN–Transformer hybrid architectures for handwritten document-layout segmentation.
+- Evaluated models on U-DIADS-Bib and DIVA-HisDB using mIoU, F1-score, precision, and recall.
+- Studied SimMIM self-supervised pretraining, cross-dataset transfer, and architectural ablations; SimMIM-pretrained Swin-UNet improved U-DIADS-Bib mIoU from 0.7871 to 0.8172 (+3.82% relative).
 
 ### Web Developer Intern — INFIDATA Technologies, Bangalore, India
 **July 2019 – September 2019**
