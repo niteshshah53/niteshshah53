@@ -46,7 +46,6 @@ I build and evaluate practical AI applications, from document-layout computer vi
 ### Machine Learning, Deep Learning & Computer Vision
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch)
 ![Hugging Face Transformers](https://img.shields.io/badge/Hugging%20Face-Transformers-yellow?style=flat)
-![TensorFlow/Keras](https://img.shields.io/badge/TensorFlow%2FKeras-FF6F00?style=flat&logo=tensorflow)
 ![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=flat&logo=scikitlearn&logoColor=white)
 ![Computer Vision](https://img.shields.io/badge/Computer-Vision-green?style=flat)
 ![Object Detection](https://img.shields.io/badge/Object-Detection-green?style=flat)
@@ -70,10 +69,6 @@ I build and evaluate practical AI applications, from document-layout computer vi
 ![Semantic Search](https://img.shields.io/badge/Semantic-Search-blue?style=flat)
 ![OCR](https://img.shields.io/badge/OCR-Document%20Processing-blue?style=flat)
 ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat&logo=streamlit&logoColor=white)
-![LangGraph](https://img.shields.io/badge/LangGraph-1C3C3C?style=flat)
-![Qdrant](https://img.shields.io/badge/Qdrant-DC244C?style=flat)
-![Ollama](https://img.shields.io/badge/Ollama-black?style=flat)
-![RAGAS](https://img.shields.io/badge/RAGAS-Evaluation-blue?style=flat)
 
 ### Backend, Frontend & Software Quality
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi)
@@ -91,10 +86,7 @@ I build and evaluate practical AI applications, from document-layout computer vi
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker)
 ![Docker Compose](https://img.shields.io/badge/Docker%20Compose-2496ED?style=flat&logo=docker)
-![DVC](https://img.shields.io/badge/DVC-13ADC7?style=flat)
-![MLflow](https://img.shields.io/badge/MLflow-0194E2?style=flat)
 ![TensorBoard](https://img.shields.io/badge/TensorBoard-FF6F00?style=flat)
-![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=flat&logo=githubactions&logoColor=white)
 ![Microsoft Azure](https://img.shields.io/badge/Microsoft%20Azure-0078D4?style=flat&logo=microsoftazure&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-Basics-232F3E?style=flat&logo=amazonaws&logoColor=white)
 ![ETL Fundamentals](https://img.shields.io/badge/ETL-Fundamentals-lightgrey?style=flat)
