@@ -25,7 +25,7 @@ I build and evaluate practical AI applications, from document-layout computer vi
 ## 👋 About Me
 
 - 🎓 **M.Sc. Artificial Intelligence**, FAU Erlangen-Nürnberg, Germany
-- 🔬 **Master's thesis (August 2025 – March 2026):** benchmarked transformer and CNN–Transformer segmentation models; studied SimMIM pretraining and reported a 3.82% relative mIoU improvement for Swin-UNet on U-DIADS-Bib
+- 🔬 **Graduate ML Researcher (Master’s Thesis), FAU Erlangen-Nürnberg** (August 2025 – March 2026), focused on deep learning and computer vision; developed hybrid segmentation pipelines and achieved **0.8172 mIoU** with SimMIM-pretrained Swin-UNet on U-DIADS-Bib.
 - 👁️ Interested in computer vision, applied machine learning, AI engineering, and ML systems
 - 🧩 Built a full-stack document-layout application integrating a pretrained Docling Heron RT-DETR v2 model with FastAPI and React/TypeScript
 - 🛠️ Project experience across Python, PyTorch, Hugging Face Transformers, LangChain, ChromaDB, FastAPI, React/TypeScript, Streamlit, Docker, and automated testing
@@ -74,17 +74,15 @@ A retrieval-augmented generation application for querying text and tabular conte
 🔗 [Repository: RAG-Pipeline-for-Semistructured-Data](https://github.com/niteshshah53/RAG-Pipeline-for-Semistructured-Data)
 
 ### 🔬 Handwritten Document Layout Segmentation — Master's Thesis
-**Research period: August 2025 – March 2026**  
-Research conducted with the Pattern Recognition Lab, FAU Erlangen-Nürnberg.
+**Graduate ML Researcher (Master’s Thesis)** | *Friedrich-Alexander-Universität Erlangen-Nürnberg*  
+*Deep Learning & Computer Vision focus* | August 2025 – March 2026
 
-Compared transformer and CNN–Transformer approaches for segmenting handwritten document layouts across the U-DIADS-Bib and DIVA-HisDB historical manuscript datasets.
+**Tech:** PyTorch, Swin-UNet, MISSFormer, SSTrans-Net, CNN–Transformer hybrid pipelines, custom Dataset/DataLoader, weighted Cross-Entropy/Dice loss, Fourier Feature Fusion, deep supervision, Docker, NVIDIA A100 HPC, Automatic Mixed Precision (AMP), gradient accumulation, SimMIM, TensorBoard
 
-**Tech:** Python, PyTorch, Swin-UNet, MISSFormer, SSTrans-Net, CNN–Transformer hybrid architectures, SimMIM self-supervised pretraining, semantic segmentation, image preprocessing and augmentation, ablation studies, mIoU, F1-score, precision, recall
-
-- Benchmarked three transformer segmentation models and two proposed CNN–Transformer hybrid architectures across full-data and few-shot settings.
-- Investigated model behavior through comparative experiments and ablation studies, including self-supervised SimMIM pretraining and cross-dataset transfer.
-- Evaluated segmentation with mean Intersection over Union (mIoU), F1-score, precision, and recall.
-- Improved Swin-UNet mIoU on U-DIADS-Bib from **0.7871** (trained from scratch) to **0.8172** with SimMIM-pretrained encoder weights — an absolute gain of **0.0301 mIoU** and a **3.82% relative improvement**.
+- **Architected two novel hybrid pipelines** modifying vision transformer models (**Swin-UNet, MISSFormer, SSTrans-Net**) in **PyTorch**, containerizing the environments via **Docker** to scale training across an **NVIDIA A100 HPC cluster**.
+- **Engineered custom Dataset and DataLoader scripts** featuring complex bitwise multi-class parsing logic, class-aware data augmentations, and a hybrid Weighted Cross-Entropy/Dice loss function to mitigate severe dataset class imbalances.
+- **Implemented advanced custom layers** (Fourier Feature Fusion, deep supervision) while optimizing GPU memory utilization using **Automatic Mixed Precision (AMP)** and gradient accumulation.
+- **Executed self-supervised SimMIM pretraining** using **TensorBoard** for rigorous experiment tracking, achieving a peak metric of **0.8172 mIoU** (a **3.82% relative improvement** over the 0.7871 baseline).
 
 🔗 [Repository: Transformer_Models](https://github.com/niteshshah53/Transformer_Models)
 
@@ -123,12 +121,12 @@ Visvesvaraya Technological University, India · August 2016 – August 2020
 
 ## 💼 Experience
 
-### Master's Thesis Research — Pattern Recognition Lab, FAU Erlangen-Nürnberg
-**August 2025 – March 2026**
+### Graduate ML Researcher (Master’s Thesis) — Friedrich-Alexander-Universität Erlangen-Nürnberg
+**Deep Learning & Computer Vision focus** | **August 2025 – March 2026**
 
-- Benchmarked Swin-UNet, MISSFormer, SSTrans-Net, and two CNN–Transformer hybrid architectures for handwritten document-layout segmentation.
-- Evaluated models on U-DIADS-Bib and DIVA-HisDB using mIoU, F1-score, precision, and recall.
-- Studied SimMIM self-supervised pretraining, cross-dataset transfer, and architectural ablations; SimMIM-pretrained Swin-UNet improved U-DIADS-Bib mIoU from 0.7871 to 0.8172 (+3.82% relative).
+- Architected hybrid segmentation pipelines in PyTorch and containerized training environments with Docker for execution on an NVIDIA A100 HPC cluster.
+- Engineered custom data-loading and class-imbalance handling components, and implemented Fourier Feature Fusion and deep supervision.
+- Executed SimMIM self-supervised pretraining with TensorBoard experiment tracking, achieving **0.8172 mIoU** on U-DIADS-Bib, a **3.82% relative improvement** over the 0.7871 baseline.
 
 ### Web Developer Intern — INFIDATA Technologies, Bangalore, India
 **July 2019 – September 2019**
