@@ -35,67 +35,15 @@ I build and evaluate practical AI applications, from document-layout computer vi
 
 ## 🛠️ Technical Skills
 
-### Programming Languages
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![C/C++](https://img.shields.io/badge/C%2FC%2B%2B-blue?style=flat)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat)
-
-### Machine Learning, Deep Learning & Computer Vision
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch)
-![Hugging Face Transformers](https://img.shields.io/badge/Hugging%20Face-Transformers-yellow?style=flat)
-![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=flat&logo=scikitlearn&logoColor=white)
-![Computer Vision](https://img.shields.io/badge/Computer-Vision-green?style=flat)
-![Object Detection](https://img.shields.io/badge/Object-Detection-green?style=flat)
-![Image Segmentation](https://img.shields.io/badge/Image-Segmentation-green?style=flat)
-![Swin-UNet](https://img.shields.io/badge/Swin--UNet-blue?style=flat)
-![MISSFormer](https://img.shields.io/badge/MISSFormer-blue?style=flat)
-![SSTrans-Net](https://img.shields.io/badge/SSTrans--Net-blue?style=flat)
-![SimMIM](https://img.shields.io/badge/SimMIM-Self--Supervised%20Pretraining-purple?style=flat)
-![RT-DETR v2](https://img.shields.io/badge/RT--DETR-v2-blue?style=flat)
-![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat&logo=opencv&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=flat)
-
-### Generative AI & Retrieval
-![LLMs](https://img.shields.io/badge/LLMs-Generative%20AI-purple?style=flat)
-![RAG](https://img.shields.io/badge/RAG-Retrieval--Augmented%20Generation-purple?style=flat)
-![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat)
-![Hugging Face](https://img.shields.io/badge/Hugging%20Face-Embeddings-yellow?style=flat)
-![ChromaDB](https://img.shields.io/badge/ChromaDB-Vector%20Database-purple?style=flat)
-![Semantic Search](https://img.shields.io/badge/Semantic-Search-blue?style=flat)
-![OCR](https://img.shields.io/badge/OCR-Document%20Processing-blue?style=flat)
-![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat&logo=streamlit&logoColor=white)
-
-### Backend, Frontend & Software Quality
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi)
-![Flask](https://img.shields.io/badge/Flask-000000?style=flat&logo=flask)
-![Pydantic](https://img.shields.io/badge/Pydantic-E92063?style=flat)
-![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)
-![HTML/CSS](https://img.shields.io/badge/HTML%2FCSS-E34F26?style=flat)
-![pytest](https://img.shields.io/badge/pytest-0A9EDC?style=flat)
-![Vitest](https://img.shields.io/badge/Vitest-6E9F18?style=flat)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white)
-![REST APIs](https://img.shields.io/badge/REST-APIs-blue?style=flat)
-![Environment Configuration](https://img.shields.io/badge/Environment-Configuration-lightgrey?style=flat)
-
-### MLOps, DevOps & Cloud
-![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker)
-![Docker Compose](https://img.shields.io/badge/Docker%20Compose-2496ED?style=flat&logo=docker)
-![TensorBoard](https://img.shields.io/badge/TensorBoard-FF6F00?style=flat)
-![Microsoft Azure](https://img.shields.io/badge/Microsoft%20Azure-0078D4?style=flat&logo=microsoftazure&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-Basics-232F3E?style=flat&logo=amazonaws&logoColor=white)
-![ETL Fundamentals](https://img.shields.io/badge/ETL-Fundamentals-lightgrey?style=flat)
-
-### Databases & Semantic Web
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)
-![RDF](https://img.shields.io/badge/RDF-blue?style=flat)
-![SPARQL](https://img.shields.io/badge/SPARQL-green?style=flat)
+- **Programming:** Python, TypeScript, JavaScript, PHP
+- **Machine Learning & Computer Vision:** Deep Learning, CNNs, Transformers, Object Detection, Image Segmentation, Predictive Analytics
+- **Generative AI:** LLMs, RAG, Embeddings, Semantic Search, OCR, Agentic AI (foundational)
+- **Frameworks & Libraries:** PyTorch, Hugging Face Transformers, LangChain, Scikit-learn, Pandas, NumPy, OpenCV, Matplotlib
+- **Backend & Frontend:** FastAPI, Flask, Streamlit, React, REST APIs
+- **Databases:** MySQL, PostgreSQL, ChromaDB, Vector Search
+- **MLOps, DevOps & Cloud:** Git, Docker, Docker Compose, DVC, MLflow, TensorBoard, Microsoft Azure, AWS (basics)
+- **Testing & Software Quality:** pytest, Vitest, API Testing, Unit Testing, Environment-based Configuration
+- **Data Engineering:** ETL Fundamentals
 
 ---
 
