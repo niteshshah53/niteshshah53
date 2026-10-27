@@ -3,200 +3,185 @@
 <h1 align="center">Hi 👋, I'm Nitesh Kumar Shah</h1>
 
 <h3 align="center">
-AI Engineer • Agentic AI & RAG Systems • Computer Vision • MLOps
+AI / Machine Learning Engineer · Computer Vision · LLM/RAG · MLOps
 </h3>
 
 <p align="center">
-M.Sc. Artificial Intelligence, FAU Erlangen-Nürnberg 🇩🇪 (2026)
+M.Sc. Artificial Intelligence · FAU Erlangen-Nürnberg, Germany
 </p>
 
 <p align="center">
-Building production-grade AI systems — from LLM/RAG pipelines to transformer-based computer vision and MLOps deployment.
+I build and evaluate practical AI applications, from document-layout computer vision and ML pipelines to retrieval-augmented generation systems.
 </p>
 
 <p align="center">
-<a href="mailto:kshahnitesh@gmail.com">
-<img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail">
-</a>
-
-<a href="https://www.linkedin.com/in/niteshshah09">
-<img src="https://img.shields.io/badge/LinkedIn-Nitesh%20Shah-blue?style=for-the-badge&logo=linkedin">
-</a>
-
-<a href="https://github.com/niteshshah53">
-<img src="https://img.shields.io/badge/GitHub-Profile-black?style=for-the-badge&logo=github">
-</a>
+<a href="mailto:kshahnitesh@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail" alt="Email"></a>
+<a href="https://www.linkedin.com/in/niteshshah09"><img src="https://img.shields.io/badge/LinkedIn-Nitesh%20Shah-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn"></a>
+<a href="https://github.com/niteshshah53"><img src="https://img.shields.io/badge/GitHub-Profile-black?style=for-the-badge&logo=github" alt="GitHub"></a>
 </p>
 
 ---
 
-# 🚀 About Me
+## 👋 About Me
 
-- 🎓 M.Sc. Artificial Intelligence — FAU Erlangen-Nürnberg, Germany (graduated Apr 2026)
-- 🤖 AI Engineer specializing in agentic AI/RAG systems, computer vision, and MLOps
-- 🔬 Master's thesis: benchmarking transformer architectures for handwritten document layout analysis
-- 🏗️ Experience building production-ready AI APIs and pipelines (FastAPI, Docker, LangGraph, CI/CD)
-- 📍 Based in Erlangen, Germany
-- 🌍 Open to AI Engineer, ML Engineer, MLOps Engineer, and Computer Vision Engineer roles across Europe and India
+- 🎓 **M.Sc. Artificial Intelligence**, FAU Erlangen-Nürnberg, Germany
+- 🔬 **Master's thesis (August 2025 – March 2026):** transformer and CNN–Transformer approaches for handwritten document-layout segmentation
+- 👁️ Interested in computer vision, applied machine learning, AI engineering, and ML systems
+- 🧩 Built a full-stack document-layout application integrating a pretrained Docling Heron RT-DETR v2 model with FastAPI and React/TypeScript
+- 🛠️ Practical experience with Python, PyTorch, FastAPI, Docker, automated testing, and reproducible ML workflows
+- 🌍 Open to suitable junior and entry-level AI/ML, computer-vision, and software engineering opportunities
 
 ---
 
-# 🛠 Tech Stack
+## 🛠️ Tech Stack
 
-### Programming
+### Languages
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-orange?style=flat&logo=openjdk)
 ![C](https://img.shields.io/badge/C-blue?style=flat)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
 
-### LLM / Agentic AI
-![LangGraph](https://img.shields.io/badge/LangGraph-1C3C3C?style=flat)
-![Qdrant](https://img.shields.io/badge/Qdrant-DC244C?style=flat)
-![Ollama](https://img.shields.io/badge/Ollama-000000?style=flat)
-![RAG](https://img.shields.io/badge/RAG-purple?style=flat)
-
-### AI & Machine Learning
+### Machine Learning & Computer Vision
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow)
-![Transformers](https://img.shields.io/badge/Transformers-yellow?style=flat)
+![Hugging Face Transformers](https://img.shields.io/badge/Transformers-yellow?style=flat)
 ![Computer Vision](https://img.shields.io/badge/Computer%20Vision-green?style=flat)
-![Detectron2](https://img.shields.io/badge/Detectron2-4B8BBE?style=flat)
+![RT-DETR](https://img.shields.io/badge/RT--DETR-v2-blue?style=flat)
 
-### MLOps & Deployment
+### LLM & Retrieval
+![LangGraph](https://img.shields.io/badge/LangGraph-1C3C3C?style=flat)
+![Qdrant](https://img.shields.io/badge/Qdrant-DC244C?style=flat)
+![RAG](https://img.shields.io/badge/RAG-purple?style=flat)
+![Ollama](https://img.shields.io/badge/Ollama-black?style=flat)
+
+### APIs, Testing & MLOps
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi)
+![Pydantic](https://img.shields.io/badge/Pydantic-E92063?style=flat)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker)
 ![DVC](https://img.shields.io/badge/DVC-13ADC7?style=flat)
+![MLflow](https://img.shields.io/badge/MLflow-0194E2?style=flat)
+![Pytest](https://img.shields.io/badge/Pytest-0A9EDC?style=flat)
 ![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=flat&logo=githubactions&logoColor=white)
-![Azure](https://img.shields.io/badge/Azure-0078D4?style=flat&logo=microsoftazure&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git)
 
 ### Data & Semantic Web
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql)
 ![RDF](https://img.shields.io/badge/RDF-blue?style=flat)
 ![SPARQL](https://img.shields.io/badge/SPARQL-green?style=flat)
-![Blazegraph](https://img.shields.io/badge/Blazegraph-orange?style=flat)
 
 ---
 
-# ⭐ Featured Projects
+## ⭐ Featured Projects
 
-## 🧠 Industrial Document Intelligence Platform
-Production-grade Retrieval-Augmented Generation platform for semantic document processing and question-answering with source citations.
+### 📄 Layout Vision — Document Layout Detection Application
+A full-stack application that detects structural regions in a document image and visualizes the results through an interactive web interface.
 
-**Tech:** Python 3.12, FastAPI, LangGraph, Qdrant, Ollama (Llama 3.2), RAGAS, Docker, React/TypeScript, Pytest
+**Tech:** Python, PyTorch, Hugging Face Transformers, Docling Heron RT-DETR v2, FastAPI, Pydantic, React, TypeScript, Vitest, pytest, Docker Compose
 
-**Highlights**
-- End-to-end RAG pipeline with semantic chunking and hybrid retrieval
-- Agent-based workflows via LangGraph with deterministic nodes
-- Source citation and grounding mechanism for answer provenance
-- Evaluation pipeline using RAGAS metrics (faithfulness, context recall, relevancy)
-- Full test suite and containerized, reproducible deployment
+- Integrated the pretrained Docling Heron RT-DETR v2 model and exposed predictions through a typed FastAPI REST API.
+- Implemented image validation, preprocessing, inference postprocessing, and mapping of bounding boxes to original-image pixel coordinates.
+- Built an interactive React/TypeScript viewer with class filtering, synchronized selection, zoom, and box/label visibility controls.
+- Added backend and frontend automated tests and a CPU-based Docker deployment path.
+- Inspected predictions on six NASA technical-report page examples; this is qualitative evaluation, not a ground-truth accuracy benchmark.
 
-🔗 https://github.com/niteshshah53/industrial-rag-platform
+🔗 [Repository: doc-layout-api](https://github.com/niteshshah53/doc-layout-api)
 
----
+### 🧠 Industrial RAG Platform
+A retrieval-augmented generation application for document question-answering with source citations.
 
-## 📄 Handwritten Document Layout Analysis (Master's Thesis)
-Benchmarking state-of-the-art transformer architectures for handwritten document layout segmentation.
+**Tech:** Python, FastAPI, LangGraph, Qdrant, Ollama, React/TypeScript, RAGAS, Docker, Pytest
 
-**Tech:** Swin-UNet, MISSFormer, SSTrans-Net, hybrid CNN–Transformer architectures, GradCAM
+- Built an end-to-end retrieval and answer-generation workflow with hybrid retrieval and source-grounded citations.
+- Used LangGraph to structure the workflow into explicit processing steps.
+- Added evaluation tooling and automated tests to support systematic inspection of retrieval and answer quality.
 
-**Highlights**
-- Multi-scale inference and hybrid CNN–Transformer designs
-- Explainable AI via GradCAM for interpretability
-- Benchmarked on IoU, F1-score, Precision, and Recall
+🔗 [Repository: industrial-rag-platform](https://github.com/niteshshah53/industrial-rag-platform)
 
-🔗 https://github.com/niteshshah53/Transformer_Models
+### 🔬 Handwritten Document Layout Segmentation — Master's Thesis
+**Research period: August 2025 – March 2026**  
+Research conducted with the Pattern Recognition Lab, FAU Erlangen-Nürnberg.
 
----
+Compared transformer and CNN–Transformer approaches for segmenting handwritten document layouts.
 
-## 🚀 Document Layout Detection API
-Production-ready REST API for document layout and object detection.
+**Tech:** Swin-UNet, MISSFormer, SSTrans-Net, CNN–Transformer architectures, PyTorch
 
-**Tech:** FastAPI, Docker, PyTorch, Detectron2, Pydantic v2, Pytest
+- Benchmarked multiple segmentation architectures for handwritten document-layout analysis.
+- Investigated model behavior through comparative experiments and ablation studies.
+- Evaluated segmentation using metrics including mean Intersection over Union (mIoU), F1-score, precision, and recall.
+- Reported a best mIoU of approximately **0.8172** on the U-DIADS-Bib dataset in the thesis experiments.
 
-**Highlights**
-- Detectron2 (Faster R-CNN, PubLayNet-trained) inference for text blocks, titles, tables, figures
-- Model singleton for efficient GPU utilization, async inference pipeline
-- Multi-stage Dockerfile, health-check endpoint, full unit/integration test coverage
+🔗 [Repository: Transformer_Models](https://github.com/niteshshah53/Transformer_Models)
 
-🔗 https://github.com/niteshshah53/doc-layout-api
+### ⚙️ MVTec Defect Detection — MLOps Portfolio
+An experiment-tracking and reproducible pipeline project for industrial visual anomaly detection using PatchCore.
 
----
+**Tech:** Python, Anomalib, PyTorch, MLflow, DVC, pytest
 
-## 🐔 Chicken Disease Classification — End-to-End MLOps Pipeline
-Full MLOps pipeline for automated image classification using transfer learning.
+- Structured anomaly-detection experiments around the MVTec AD dataset and PatchCore baseline.
+- Used MLflow for experiment tracking and DVC to organize reproducible pipeline stages.
+- Audited image-level and pixel-level evaluation outputs across selected product categories.
+
+🔗 [Repository: mvtec-defect-mlops](https://github.com/niteshshah53/mvtec-defect-mlops)
+
+### 🐔 Chicken Disease Classification — ML Pipeline
+An image-classification project demonstrating a repeatable training and deployment workflow.
 
 **Tech:** TensorFlow/Keras, DVC, Docker, GitHub Actions, Azure
 
-**Highlights**
-- Reproducible ML workflows with DVC (data, model, and pipeline versioning)
-- Push-triggered CI/CD via GitHub Actions (build, test, deploy)
-- Deployed as a REST API on Microsoft Azure for scalable inference
+- Organized model development into a reproducible ML pipeline.
+- Worked with dataset and pipeline versioning and automated build/test/deployment steps.
 
-🔗 https://github.com/niteshshah53/Chicken-Disease-Classification-Project
+🔗 [Repository: Chicken-Disease-Classification-Project](https://github.com/niteshshah53/Chicken-Disease-Classification-Project)
 
 ---
 
-## 🌆 Urban Sidewalk Segmentation — Freezing Strategies Study
-Comparative study on transfer learning and layer-freezing strategies for sidewalk segmentation.
+## 🎓 Education
 
-**Tech:** U-Net++, DeepLabV3+
+**M.Sc. Artificial Intelligence**  
+FAU Erlangen-Nürnberg, Germany · October 2021 – April 2026
 
-**Datasets:** Cityscapes, Mapillary Vistas, Sensation
-
----
-
-# 💼 Experience
-
-## AI Engineer — Master's Thesis
-**Pattern Recognition Lab, FAU Erlangen-Nürnberg** · Aug 2025 – Mar 2026
-- Designed and benchmarked transformer-based image segmentation models (Swin-UNet, MISSFormer, SSTrans-Net) for handwritten document layout analysis
-- Built hybrid CNN–Transformer architectures to improve multi-scale feature representation
-- Developed an end-to-end inference pipeline with confidence and uncertainty visualization for reliability assessment
-
-## Web Developer Intern
-**INFIDATA Technologies**, Bangalore, India · Jul 2019 – Aug 2019
-- Built backend logic and database operations for an e-commerce admin module (PHP, MySQL, JavaScript/jQuery)
-- Managed version control with Git and tested APIs with Postman
+**B.E. Information Science and Engineering**  
+Visvesvaraya Technological University, India · August 2016 – August 2020
 
 ---
 
-# 🎓 Education
+## 💼 Experience
 
-**M.Sc. Artificial Intelligence** — FAU Erlangen-Nürnberg, Germany (Oct 2021 – Apr 2026)
+### Master's Thesis Research — Pattern Recognition Lab, FAU Erlangen-Nürnberg
+**August 2025 – March 2026**
 
-**B.E. Information Science and Engineering** — Visvesvaraya Technological University, India (Aug 2016 – Aug 2020)
+- Compared transformer and CNN–Transformer architectures for handwritten document-layout segmentation.
+- Conducted segmentation experiments and analyzed model performance using standard region-overlap and classification metrics.
+- Investigated model behavior through comparative and ablation experiments.
+
+### Web Developer Intern — INFIDATA Technologies, Bangalore, India
+**July 2019 – August 2019**
+
+- Worked on backend logic and database operations for an e-commerce administration module using PHP, MySQL, and JavaScript/jQuery.
+- Used Git for version control and Postman to test APIs.
 
 ---
 
-# 📈 GitHub Stats
+## 📈 GitHub Stats
 
 <p align="center">
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=niteshshah53&show_icons=true&theme=tokyonight" />
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=niteshshah53&layout=compact&theme=tokyonight" />
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=niteshshah53&show_icons=true&theme=tokyonight" alt="GitHub stats">
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=niteshshah53&layout=compact&theme=tokyonight" alt="Top languages">
 </p>
 
 <p align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=niteshshah53&theme=tokyonight" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=niteshshah53&theme=tokyonight" alt="GitHub streak">
 </p>
 
 ---
 
-# 📫 Contact
+## 📫 Contact
 
-📧 Email: **kshahnitesh@gmail.com**
+- 📧 Email: [kshahnitesh@gmail.com](mailto:kshahnitesh@gmail.com)
+- 💼 LinkedIn: [linkedin.com/in/niteshshah09](https://www.linkedin.com/in/niteshshah09)
+- 🐙 GitHub: [github.com/niteshshah53](https://github.com/niteshshah53)
 
-💼 LinkedIn: **linkedin.com/in/niteshshah09**
+<p align="center">Thanks for visiting my profile 🚀</p>
 
-🐙 GitHub: **github.com/niteshshah53**
-
-📍 Erlangen, Germany
-
----
-
-<p align="center">
-Thanks for visiting my profile 🚀
-</p>
-
-<img src="https://raw.githubusercontent.com/Trilokia/Trilokia/master/bottom_header.svg" />
+<img src="https://raw.githubusercontent.com/Trilokia/Trilokia/master/bottom_header.svg" alt="">
