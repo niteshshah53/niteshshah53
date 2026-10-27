@@ -156,7 +156,7 @@ Visvesvaraya Technological University, India · August 2016 – August 2020
 - Investigated model behavior through comparative and ablation experiments.
 
 ### Web Developer Intern — INFIDATA Technologies, Bangalore, India
-**July 2019 – August 2019**
+**July 2019 – September 2019**
 
 - Worked on backend logic and database operations for an e-commerce administration module using PHP, MySQL, and JavaScript/jQuery.
 - Used Git for version control and Postman to test APIs.
